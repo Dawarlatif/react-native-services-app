@@ -1,0 +1,14 @@
+export { default as OnboardingImage1 } from "./onboarding1.png";
+export { default as OnboardingImage2 } from "./onboarding2.png";
+export { default as OnboardingImage3 } from "./onboarding3.png";
+export { default as OnBoardingIcon } from "./onBoardingIcon.png";
+export { default as LogoBlue } from "./logoBlue.png";
+export { default as LogoBlueSmall } from "./logoBlueSmall.png";
+export { default as GoogleIcon } from "./googleIcon.png";
+export { default as FacebookIcon } from "./facebookIcon.png";
+export { default as AppleIcon } from "./appleIcon.png";
+export { default as BellIcon } from "./bell.svg";
+export { default as Cleaning1 } from "./cleaningTest1.png";
+export { default as Cleaning2 } from "./cleaningTest2.png";
+export { default as AcRepair } from "./acRepair.png";
+// export { default as NotFound } from "./NotFound.png";
